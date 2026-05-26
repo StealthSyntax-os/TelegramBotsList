@@ -4,6 +4,7 @@ All sources will be listed by language in which the bots are written on.
 To have a complete list of telegram bots (without source) have a look at [@botlist](https://t.me/botlist).
  
 ### Bash
+  - [@Syncsocialbot](https://t.me/syncsocialbot)
  - [@Check4ChangeAmazonBot](https://t.me/Check4ChangeAmazonBot) -> [Source](https://github.com/iicc1/Check4ChangeAmazonBot)
  - HomeKeekerBot -> [Source](https://github.com/oscarcappa/HomeKeeper)
  - [@groupagreebot](https://t.me/groupagreebot) -> [Source](https://github.com/wjclub/telegram-bot-groupagree)
